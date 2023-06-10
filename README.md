@@ -11,4 +11,4 @@ Stock market price prediction using Deep learning
 7. model training
 8. prediction using number of days given by the user 
 9. Data Visualization and analysis of Original and Predicted prices of past stock prices.
-10. For Next day prediction, perform necessary steps 
+10. For Next day prediction, perform necessary steps such as include the testing dataset and increase it's length by one for generating price.
